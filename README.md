@@ -1,0 +1,1 @@
+# fari_bot_analiz
