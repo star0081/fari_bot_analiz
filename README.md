@@ -67,4 +67,3 @@ Sold;peugeot;406;1997;3499;2024-10-05;no url
 Sold;nissan;almera tino;2001;4999;2024-10-04;no url
 On sale;renault;megane;2019;15399;2024-10-04;https://cars.av.by/renault/megane/111222888
 Sold;mazda;6;2005;5499;2024-10-03;no url
-Этот скрипт позволяет структурировать и сохранить данные об автомобилях в удобном для анализа формате CSV.
