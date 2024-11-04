@@ -54,15 +54,24 @@ with open("cars.csv", "w", newline="", encoding='utf-8') as file:
 
 Пример входных данных
 Файл data.txt:
+
 ⛔️ peugeot 406 1997.,  3499$ : 2024-10-05
+
 ⛔️ nissan almera tino 2001.,  4999$ : 2024-10-04
+
 ✅ renault megane 2019 (https://cars.av.by/renault/megane/111222888)., 15399$ : 2024-10-04
+
 ⛔️ mazda 6 2005.,  5499$ : 2024-10-03
 
 Выходные данные
 Файл cars.csv (CSV, разделенный точкой с запятой):
+
 Status;Make;Model;Year;Price;Date;Url/if exists
+
 Sold;peugeot;406;1997;3499;2024-10-05;no url
+
 Sold;nissan;almera tino;2001;4999;2024-10-04;no url
+
 On sale;renault;megane;2019;15399;2024-10-04;https://cars.av.by/renault/megane/111222888
+
 Sold;mazda;6;2005;5499;2024-10-03;no url
