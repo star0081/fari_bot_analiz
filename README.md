@@ -54,7 +54,6 @@ with open("cars.csv", "w", newline="", encoding='utf-8') as file:
 
 Пример входных данных
 Файл data.txt:
-
 ⛔️ peugeot 406 1997.,  3499$ : 2024-10-05
 
 ⛔️ nissan almera tino 2001.,  4999$ : 2024-10-04
@@ -65,7 +64,6 @@ with open("cars.csv", "w", newline="", encoding='utf-8') as file:
 
 Выходные данные
 Файл cars.csv (CSV, разделенный точкой с запятой):
-
 Status;Make;Model;Year;Price;Date;Url/if exists
 
 Sold;peugeot;406;1997;3499;2024-10-05;no url
